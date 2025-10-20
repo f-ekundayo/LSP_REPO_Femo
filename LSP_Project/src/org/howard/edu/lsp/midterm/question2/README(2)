@@ -1,0 +1,8 @@
+AI usage
+I copied and pasted the questions from the word doc into ChatGPT and analyzed the answers i got back. 
+it gave me some expected output;
+Circle radius 3.0 → area = 28.274333882308138
+Rectangle 5.0 x 2.0 → area = 10.0
+Triangle base 10, height 6 → area = 30.0
+Square side 4 → area = 16.0
+Error: Radius must be greater than zero.
